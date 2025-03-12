@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "596848070301",
+    "firebase_url": "https://shopease-ccabc-default-rtdb.firebaseio.com",
+    "project_id": "shopease-ccabc",
+    "storage_bucket": "shopease-ccabc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596848070301:android:5404ba21f5ac8cf51b8e74",
+        "android_client_info": {
+          "package_name": "com.example.shopease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596848070301-j33a4pq1ds2sbte62t2tdf68umuitfvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwcRAuOKw2MQ1S3Hm2Jx8KKnstdVvhpI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596848070301-j33a4pq1ds2sbte62t2tdf68umuitfvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596848070301:android:d7dfc35cf79b14441b8e74",
+        "android_client_info": {
+          "package_name": "com.yourname.shopease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596848070301-j33a4pq1ds2sbte62t2tdf68umuitfvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwcRAuOKw2MQ1S3Hm2Jx8KKnstdVvhpI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596848070301-j33a4pq1ds2sbte62t2tdf68umuitfvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

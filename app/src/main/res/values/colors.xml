@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#757575</color>
+    <color name="bottom_nav_item_color">#0E4B69</color> <!-- Purple for icons & text -->
+    <color name="light_gray">#E0E0E0</color>
+    <color name="text_primary">#212121</color>
+    <!-- Status Colors -->
+    <color name="success_green">#4CAF50</color>
+    <color name="error_red">#F44336</color>
+    <color name="warning_yellow">#FFC107</color>
+    <color name="dark_gray">#424242</color>
+
+    <!-- Special Purpose -->
+    <color name="price_color">#3F51B5</color>
+    <color name="discount_color">#4CAF50</color>
+    <color name="original_price_color">#9E9E9E</color>
+    <color name="rating_color">#FFC107</color>
+    <color name="in_stock_color">#4CAF50</color>
+    <color name="out_of_stock_color">#F44336</color>
+
+    <!-- SmartShop colors -->
+    <color name="smartshop_dark_blue">#0E4B69</color>
+    <color name="smartshop_green">#8AA04D</color>
+    <color name="smartshop_orange">#F39C50</color>
+    <color name="smartshop_light_blue">#4FD4E4</color>
+
+</resources>

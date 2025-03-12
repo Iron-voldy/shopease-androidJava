@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ShopEase" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">#0E4B69</item> <!-- Dark blue from cart and "SHOP" -->
+        <item name="colorPrimaryVariant">#0A3B55</item> <!-- Darker shade of the blue -->
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">#F5A742</item> <!-- Orange/gold from the mobile device in cart -->
+        <item name="colorSecondaryVariant">#E09530</item> <!-- Darker shade of orange -->
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Accent colors -->
+        <item name="colorAccent">#79C8E8</item> <!-- Light blue from "EASE" in logo -->
+
+        <!-- Background colors -->
+        <item name="android:colorBackground">@color/white</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnBackground">@color/black</item>
+        <item name="colorOnSurface">@color/black</item>
+
+        <!-- Status bar and navigation colors -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:navigationBarColor">?attr/colorPrimaryVariant</item>
+
+    </style>
+
+    <style name="circleImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="Theme.ShopEase" parent="Base.Theme.ShopEase" />
+</resources>
